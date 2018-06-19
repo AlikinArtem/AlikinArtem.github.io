@@ -1,0 +1,16 @@
+
+.firstblock{
+	height: 150px; 
+	background-color: #FFFFFF;
+	padding-top: 50px;
+}
+.nakartinke{
+	background-image: url('Bench/Photo/td0fuwtqFMY.jpg'); 
+	height: 250px; 
+	width: 100%; 
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100% 100%;
+    padding-top: 100px;
+}
+
